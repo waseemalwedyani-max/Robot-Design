@@ -93,5 +93,3 @@ Initially, the static **Creep Gait** is used to ensure maximum stability:
 4. **Chassis Bending:** The robot base bowing under the weight of the battery and electronic components.
    * *Solution:* Add longitudinal and transverse support ribs to the top and bottom of the base to increase structural rigidity.
 
----
-💡 *This report and initial design serve as a foundational step in understanding the close relationship between mechanical engineering and software control systems in robotics.*
