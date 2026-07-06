@@ -72,7 +72,7 @@ To ensure the correct motor is chosen, the minimum required torque was calculate
    To account for harmful friction, acceleration, and the weight of the legs themselves, the torque is multiplied by a safety factor ($SF = 2$):
    $$\tau_{\text{required}} = 0.735 \times 2 \approx 1.47 \text{ N.m}$$
 
-*Since the MG996R provides a torque between $1.1$ and $1.3 \text{ N.m}$ at 6V (and can peak higher), it is an excellent and sufficient choice for operating the robot efficiently under normal conditions.*
+Since the MG996R provides a torque between **1.1** and **1.3 N.m** at 6V (and can peak higher), it is an excellent and sufficient choice for operating the robot efficiently under normal conditions.
 
 ## 6. Stability and Center of Gravity (COG)
 * **Center of Gravity:** Located exactly at the geometric center of the chassis to ensure equal load distribution across all four joints.
