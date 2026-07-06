@@ -1,6 +1,6 @@
 # Robot-Design
 <img width="1600" height="905" alt="dog" src="https://github.com/user-attachments/assets/d0540a1c-81c0-4672-b680-82e68e5b5873" />
-
+Source of the Picture https://www.printables.com/model/1443108-quadruped-i/files
 Initial Mechanical Design and torque analysis for a Quadruped Robot - Smart Methods Summer Training 2026.
 
 Welcome to the repository for the **Initial Mechanical Design of a Quadruped Robot**. This design was prepared as part of the 2026 summer training tasks for the (AI & Robotics / Mechanical Engineering) track. The project focuses on studying and analyzing the mechanical fundamentals that enable a robot to stand and walk stably.
