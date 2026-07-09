@@ -1,6 +1,5 @@
 # Robot-Design
-<img width="1600" height="905" alt="dog" src="https://github.com/user-attachments/assets/d0540a1c-81c0-4672-b680-82e68e5b5873" />
-Source of the Picture https://www.printables.com/model/1443108-quadruped-i/files
+<img width="712" height="600" alt="Screenshot 2026-07-09 192830" src="https://github.com/user-attachments/assets/13a37f61-2bd1-4e58-9770-31fb2df1bef8" />
 
 
  
