@@ -1,5 +1,4 @@
 # Robot-Design
-<img width="712" height="600" alt="Screenshot 2026-07-09 192830" src="https://github.com/user-attachments/assets/13a37f61-2bd1-4e58-9770-31fb2df1bef8" />
 
 
  
